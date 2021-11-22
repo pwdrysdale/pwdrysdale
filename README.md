@@ -10,6 +10,14 @@ Take a look at my profile [here](http://www.heyimpete.xyz)
 
 Thanks for taking the time to have a look. Happy to take advice, and learn! (there's still plenty of that to do..)
 
+You might be interested in seeing other stuff I'm up to: 
+ 
+ - [Twitter](https://twitter.com/pwdrysdale)
+ - [Udemy](https://www.udemy.com/user/peter-987/)
+ - [Free Code Camp](https://www.freecodecamp.org/fcce5366a3e-4718-4065-978d-6595af927f39)
+
+I do try to get my best stuff up here, on GitHub! (but I did have to learn somehow)
+
 PWD (my initials, not print working directory or password)
 
 <!---
