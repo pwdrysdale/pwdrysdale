@@ -1,8 +1,8 @@
-Hi,
+# Hey,
 
-I'm Pete.
+# I'm Pete.
 
-I am looking to become a full stack developer. 
+# I am looking to become a full stack developer. 
 
 I have done some work in NodeJS and React, and currently looking to expand my skillset into GraphQL, Postgres, Bash and Typescript.
 
