@@ -2,11 +2,11 @@
 
 # I'm Pete.
 
-# I am looking to become a full stack developer. 
+# I'm a full stack developer. 
 
-I have done some work in NodeJS and React, and currently looking to expand my skillset into GraphQL, Postgres, Bash and Typescript.
+I have done some work in Node, React, Vue, Typescript and other technologies.
 
-Take a look at my profile [here](http://www.heyimpete.xyz)
+Take a look at my profile [here](http://www.heyimpete.xyz) - and in true dev form it needs an update.
 
 Thanks for taking the time to have a look. Happy to take advice, and learn! (there's still plenty of that to do..)
 
@@ -18,7 +18,7 @@ You might be interested in seeing other stuff I'm up to:
 
 I do try to get my best stuff up here, on GitHub! (but I did have to learn somehow)
 
-PWD (my initials, not print working directory or password)
+PWD (my initials)
 
 <!---
 pwdrysdale/pwdrysdale is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
